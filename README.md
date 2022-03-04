@@ -27,10 +27,12 @@
 
 <br/>
 
+<p align="center">
 <a href="https://github.com/justin-gallo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=justin-gallo&theme=nightowl&show_icons=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-gallo&theme=nightowl&layout=compact" />
 </a>
+</p>
 
 <br/>
 
