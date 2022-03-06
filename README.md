@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studied Mechanical Engineering at University of Connecticut. 
 - 💼 &nbsp; Working as a Hardware Engineer Associate at Sikorsky Aircraft Corporation. 
 - 🧠 &nbsp; Refining my vanilla JavaScript skills before branching out to frameworks. 
-- ✍️ &nbsp; Enjoy skydiving, rock climbing, and running when I'm not coding. 
+- ✍️ &nbsp; Enjoy skydiving, rock climbing, and running in my free time. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
