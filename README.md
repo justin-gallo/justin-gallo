@@ -15,6 +15,8 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 📊 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFE873)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -39,8 +41,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.justingallo.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.justingallo.dev-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/justin-gallo-291083160/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Justin%20Gallo-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/justin_gallo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-justin_gallo-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:contact@justingallo.dev"><img alt="Email" src="https://img.shields.io/badge/Email-contact@justingallo.dev-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.justingallo.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.justingallo.dev-022E4F?style=for-the-badge&logo=google-chrome&labelColor=011627&logoColor=FFEB95"></a>
+<a href="https://www.linkedin.com/in/justin-gallo-291083160/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Justin%20Gallo-022E4F?style=for-the-badge&logo=linkedin&labelColor=011627&logoColor=C792EA"></a>
+<a href="https://www.instagram.com/justin_gallo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-justin_gallo-022E4F?style=for-the-badge&logo=instagram&labelColor=011627&logoColor=FFEB95"></a>
+<a href="mailto:contact@justingallo.dev"><img alt="Email" src="https://img.shields.io/badge/Email-contact@justingallo.dev-022E4F?style=for-the-badge&logo=gmail&labelColor=011627&logoColor=7FDBCA"></a>
 </p>
