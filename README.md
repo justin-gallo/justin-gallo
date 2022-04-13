@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://www.justingallo.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.justingallo.dev-022E4F?style=for-the-badge&logo=google-chrome&labelColor=011627&logoColor=FFEB95"></a>
-<a href="https://www.linkedin.com/in/justin-gallo-291083160/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Justin%20Gallo-022E4F?style=for-the-badge&logo=linkedin&labelColor=011627&logoColor=C792EA"></a>
+<a href="https://www.linkedin.com/in/justin-gallo-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Justin%20Gallo-022E4F?style=for-the-badge&logo=linkedin&labelColor=011627&logoColor=C792EA"></a>
 <a href="https://www.instagram.com/justin_gallo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-justin_gallo-022E4F?style=for-the-badge&logo=instagram&labelColor=011627&logoColor=FFEB95"></a>
 <a href="mailto:contact@justingallo.dev"><img alt="Email" src="https://img.shields.io/badge/Email-contact@justingallo.dev-022E4F?style=for-the-badge&logo=gmail&labelColor=011627&logoColor=7FDBCA"></a>
 </p>
