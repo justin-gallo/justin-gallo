@@ -15,8 +15,11 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=Webpack)
 - 📊 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFE873)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
+  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy&logoColor=4CADD0)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
