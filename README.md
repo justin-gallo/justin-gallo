@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Self learning web development in hopes of changing career paths to software development.
+- 🤔 &nbsp; Self learning web development in hopes of strengthening my professional toolbox.
 - 🎓 &nbsp; Studied Mechanical Engineering at University of Connecticut. 
-- 💼 &nbsp; Working as a Hardware Engineer Associate at Sikorsky Aircraft Corporation. 
+- 💼 &nbsp; Working as a Hardware Engineer at Sikorsky Aircraft Corporation. 
 - 🧠 &nbsp; Refining my vanilla JavaScript skills before learning web frameworks. Also branching out a bit to data science with Python.
 - ✍️ &nbsp; Enjoy skydiving, rock climbing, and running in my free time. 
 
@@ -44,8 +44,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.justingallo.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.justingallo.dev-022E4F?style=for-the-badge&logo=google-chrome&labelColor=011627&logoColor=FFEB95"></a>
 <a href="https://www.linkedin.com/in/justin-gallo-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Justin%20Gallo-022E4F?style=for-the-badge&logo=linkedin&labelColor=011627&logoColor=C792EA"></a>
 <a href="https://www.instagram.com/justin_gallo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-justin_gallo-022E4F?style=for-the-badge&logo=instagram&labelColor=011627&logoColor=FFEB95"></a>
-<a href="mailto:contact@justingallo.dev"><img alt="Email" src="https://img.shields.io/badge/Email-contact@justingallo.dev-022E4F?style=for-the-badge&logo=gmail&labelColor=011627&logoColor=7FDBCA"></a>
+<a href="mailto:gallo7337@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gallo7337@gmail.com-022E4F?style=for-the-badge&logo=gmail&labelColor=011627&logoColor=7FDBCA"></a>
 </p>
